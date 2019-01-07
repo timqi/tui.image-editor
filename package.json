@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/timqi/tui.image-editor.git"
   },
-  "main": "dist/tui-image-editor.js",
+  "main": "dist/tui-image-editor-timqifork.js",
   "description": "TOAST UI Component: ImageEditor",
   "keywords": [
     "nhnent",

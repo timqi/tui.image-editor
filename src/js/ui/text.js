@@ -28,7 +28,7 @@ class Text extends Submenu {
         this._els = {
             textEffectButton: this.selector('#tie-text-effect-button'),
             textAlignButton: this.selector('#tie-text-align-button'),
-            textColorpicker: new Colorpicker(this.selector('#tie-text-color'), '#ffbb3b', this.toggleDirection),
+            textColorpicker: new Colorpicker(this.selector('#tie-text-color'), '#ff4040', this.toggleDirection),
             textRange: new Range(this.selector('#tie-text-range'), defaultTextRangeValus),
             textRangeValue: this.selector('#tie-text-range-value')
         };
