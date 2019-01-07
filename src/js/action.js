@@ -441,7 +441,7 @@ export default {
             },
             /* eslint-enable complexity */
             addText: pos => {
-                this.addText('Double Click', {
+                this.addText('双击修改', {
                     position: pos.originPosition,
                     styles: {
                         fill: this.ui.text.textColor,
